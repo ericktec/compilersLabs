@@ -1,0 +1,10 @@
+Detectar funciones ensamblador:
+([0-9a-z]{16} <[a-zA-Z_@.]+>:)
+
+Detectar instrucciones: 
+([0-9a-z]{4}:(	)+([0-9a-z]{2} ){1,7} *	[a-z0-9]+)
+
+
+
+
+
